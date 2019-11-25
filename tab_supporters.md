@@ -1,9 +1,9 @@
 ---
-title: Example
+title: Supporters
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: aarhus-supporters
 ---
 
 ## Example
