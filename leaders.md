@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Dennis Perto](mailto://dennis.perto@owasp.org)
+* [Thomas Ljungberg Kristensen](mailto://thomas.kristensen@owasp.org)
