@@ -6,11 +6,10 @@
 * [Breaker](#)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/OWASP-Aarhus-Chapter)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/OWASP/www-chapter-aarhus)
 
 ### Change Log
 * [changes](#)
