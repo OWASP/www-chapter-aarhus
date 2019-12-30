@@ -19,7 +19,7 @@ splitting your membership fee: 40% chapter / 60% OWASP Global\!
 
 Call For Speakers is open - if you would like to present a talk at
 future OWASP Aarhus Chapter events - please review and agree with
-the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send
+the [OWASP Speaker Agreement](Speaker_Agreement ) and send
 the proposed talk title, abstract and speaker bio to any of the Chapter
 Leaders via e-mail:
 
@@ -121,7 +121,7 @@ The agenda:
   - 17h15 - 17h45: One slide that inaccurately summarizes activity
     groups - so I can get people to do the IT controls they should have
     done years ago.. (Mitchell Impey  - SydEnergi/Norlys)
-      - Presentaion: <https://www.owasp.org/images/b/b0/ICS.pdf>
+      - Presentaion: </www-pdf-archive/ICS.pdf>
 
 <!-- end list -->
 
@@ -129,7 +129,7 @@ The agenda:
   - 18h00 - 19h00: Incident response for cheapz (David Thejl-Clayton -
     JN Data)
       - Presentation:
-        <https://www.owasp.org/images/f/ff/Incident_Response_for_Cheapz.pdf> 
+        </www-pdf-archive/Incident_Response_for_Cheapz.pdf> 
   - 19h00 - 19h15: Coffee break
   - 19h15 - 20h00: Incident Detection & Response game
 
@@ -144,4 +144,4 @@ A special thank you for all of our supporters\!
 ![Erhvervsakademi_Aarhus.png](Erhvervsakademi_Aarhus.png
 "Erhvervsakademi_Aarhus.png")
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
