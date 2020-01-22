@@ -1,10 +1,7 @@
-### aarhus Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+<!--### Chapter Information
+* Chapter Region
 
+<<<<<<< HEAD
 ### Downloads or Social Links
 * [Meetup](https://www.meetup.com/OWASP-Aarhus-Chapter)
 
@@ -14,3 +11,8 @@
 ### Change Log
 * [changes](#)
 
+=======
+### Social Links
+* [Meetup](#)
+* [Social Link](#)-->
+>>>>>>> 86e4fe5d89d2767bbdc88bf4360984e07a971bc6
