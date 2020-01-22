@@ -70,14 +70,11 @@ The agenda:
 
 ### REGISTRATION
 
-Registration for the main [OWASP
-Meeting](https://www.meetup.com/OWASP-Aarhus-Chapter/events/265954894/).
+Registration for the main [OWASP Meeting](https://www.meetup.com/OWASP-Aarhus-Chapter/events/265954894/).
 
-Registration for the [workshop pre
-meeting](https://www.meetup.com/OWASP-Aarhus-Chapter/events/266470344/).
+Registration for the [workshop pre meeting](https://www.meetup.com/OWASP-Aarhus-Chapter/events/266470344/).
 
-Please follow us on
-[MeetUp](https://www.meetup.com/OWASP-Aarhus-Chapter/)
+Please follow us on [MeetUp](https://www.meetup.com/OWASP-Aarhus-Chapter/)
 
 ## Future meeting
 
@@ -121,15 +118,12 @@ The agenda:
   - 17h15 - 17h45: One slide that inaccurately summarizes activity
     groups - so I can get people to do the IT controls they should have
     done years ago.. (Mitchell Impey  - SydEnergi/Norlys)
-      - Presentaion: </www-pdf-archive/ICS.pdf>
 
 <!-- end list -->
 
   - 17h45 - 18h00: Sandwich break
-  - 18h00 - 19h00: Incident response for cheapz (David Thejl-Clayton -
-    JN Data)
+  - 18h00 - 19h00: Incident response for cheapz (David Thejl-Clayton - JN Data)
       - Presentation:
-        </www-pdf-archive/Incident_Response_for_Cheapz.pdf> 
   - 19h00 - 19h15: Coffee break
   - 19h15 - 20h00: Incident Detection & Response game
 
