@@ -34,6 +34,46 @@ will send invites when the agenda is set.
 
 ### WHEN
 
+February 27, 2020
+
+### WHERE
+
+Aarhus
+
+### PROGRAM
+
+TBA
+
+### REGISTRATION
+
+Please follow us on [MeetUp](https://www.meetup.com/OWASP-Aarhus-Chapter/)
+
+## Future meeting
+
+Please make the date available in your calendar. Date is confirmed, we
+will send invites when the agenda is set.
+
+### WHEN
+
+May, 2020
+
+### WHERE
+
+TBD
+
+### PROGRAM
+
+TBD
+
+## Previous meetings
+
+**Everyone is welcome to join us at our chapter meetings.**
+
+Please take in consideration that we usually have a finite number of
+seats.
+
+### WHEN
+
 November 27, 2019
 
 ### WHERE
@@ -56,9 +96,6 @@ an command and control infrastructure.
 The agenda:
 
   - 17h00 - 17h15: Welcome and presentation of agenda
-
-<!-- end list -->
-
   - 17h15 - 17h30: Future of OWASP
   - 17h30 - 17h45: Tapas break
   - 17h45 - 18h15: The benefits of TIBER (Claus Vesthammer - Improsec)
@@ -67,39 +104,7 @@ The agenda:
   - 19h00 - 19h30: Application security discoveries (Jonas Hansen -
     Danske Bank)
   - 19h30 - 20h30: Networking
-
-### REGISTRATION
-
-Registration for the main [OWASP Meeting](https://www.meetup.com/OWASP-Aarhus-Chapter/events/265954894/).
-
-Registration for the [workshop pre meeting](https://www.meetup.com/OWASP-Aarhus-Chapter/events/266470344/).
-
-Please follow us on [MeetUp](https://www.meetup.com/OWASP-Aarhus-Chapter/)
-
-## Future meeting
-
-Please make the date available in your calendar. Date is confirmed, we
-will send invites when the agenda is set.
-
-### WHEN
-
-February 27, 2020
-
-### WHERE
-
-TBD
-
-### PROGRAM
-
-TBD
-
-## Previous meetings
-
-**Everyone is welcome to join us at our chapter meetings.**
-
-Please take in consideration that we usually have a finite number of
-seats.
-
+  
 ### WHEN
 
 August 27, 2019
