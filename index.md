@@ -1,14 +1,9 @@
 ---
 
 layout: col-sidebar
-<<<<<<< HEAD
-title: OWASP Aarhus Chapter
-tags: aarhus
-=======
 title: OWASP Aarhus
-tags: example-tag
-level: 0
->>>>>>> 86e4fe5d89d2767bbdc88bf4360984e07a971bc6
+tags: aarhus
+
 
 region: Europe
 
