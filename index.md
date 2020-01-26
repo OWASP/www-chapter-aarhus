@@ -53,6 +53,8 @@ The agenda:
 
 ### REGISTRATION
 
+Direct link to [registration](https://www.meetup.com/OWASP-Aarhus-Chapter/events/268084665/).
+
 Please follow us on [MeetUp](https://www.meetup.com/OWASP-Aarhus-Chapter/)
 
 ## Future meeting
@@ -135,7 +137,7 @@ The agenda:
 
 ## Supporters
 
-A special thank you for all of our supporters\!
+A special thank you for all of our supporters!
 
 ### Academic
 
