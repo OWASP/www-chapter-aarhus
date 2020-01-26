@@ -13,7 +13,7 @@ The Aarhus local chapter aims to organize quarterly events to promote
 OWASP and information security in general.
 
 Are you currently a member? Remember to support your local chapter by
-splitting your membership fee: 40% chapter / 60% OWASP Global\!
+splitting your membership fee: 40% local chapter / 60% OWASP global!
 
 ## Speaking at OWASP Aarhus Chapter Events
 
@@ -38,11 +38,18 @@ February 27, 2020
 
 ### WHERE
 
-Aarhus
+Værkmestergade 8, 21nd floor
+
+8000 Aarhus C
 
 ### PROGRAM
 
-TBA
+The agenda:
+  - 17h00 - 17h15: Welcome
+  - 17h15 - 18h00: Getting started with IT-security in development
+  - 18h00 - 18h45: Food
+  - 19h00 - 19h45: Web compromise to big trouble - what we saw change in 2019.
+  - 19h45 - 20h00: What is OWASP really? + a flagship.
 
 ### REGISTRATION
 
@@ -120,15 +127,9 @@ Nannasvej 7
 The agenda:
 
   - 17h00 - 17h15: Welcome and presentation of agenda and speakers
-  - 17h15 - 17h45: One slide that inaccurately summarizes activity
-    groups - so I can get people to do the IT controls they should have
-    done years ago.. (Mitchell Impey  - SydEnergi/Norlys)
-
-<!-- end list -->
-
+  - 17h15 - 17h45: One slide that inaccurately summarizes activity groups - so I can get people to do the IT controls they should have done years ago.. (Mitchell Impey  - SydEnergi/Norlys)
   - 17h45 - 18h00: Sandwich break
   - 18h00 - 19h00: Incident response for cheapz (David Thejl-Clayton - JN Data)
-      - Presentation:
   - 19h00 - 19h15: Coffee break
   - 19h15 - 20h00: Incident Detection & Response game
 
