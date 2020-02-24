@@ -9,7 +9,7 @@ region: Europe
 
 
 ---
-The Aarhus local chapter aims to organize quarterly events to promote
+The Aarhus local chapter aims to organise quarterly events to promote
 OWASP and information security in general.
 
 Are you currently a member? Remember to support your local chapter by
@@ -46,7 +46,7 @@ Værkmestergade 8, 21nd floor
 
 The agenda:
   - 17h00 - 17h15: Welcome
-  - 17h15 - 18h00: Getting started with IT-security in development
+  - 17h15 - 18h00: The challenge of exposing and securing vital functions in the financial sector.
   - 18h00 - 18h45: Food
   - 19h00 - 19h45: Web compromise to big trouble - what we saw change in 2019.
   - 19h45 - 20h00: What is OWASP really? + a flagship.
