@@ -48,7 +48,8 @@ The agenda:
   - 17h00 - 17h15: Welcome
   - 17h15 - 18h00: The challenge of exposing and securing vital functions in the financial sector.
   - 18h00 - 18h45: Food
-  - 19h00 - 19h45: Web compromise to big trouble - what we saw change in 2019.
+  - 18h45 - 19h30: Web compromise to big trouble - what we saw change in 2019.
+  - 19h30 - 19h45: Food
   - 19h45 - 20h00: What is OWASP really? + a flagship.
 
 ### REGISTRATION
