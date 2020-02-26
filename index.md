@@ -12,14 +12,11 @@ region: Europe
 The Aarhus local chapter aims to organise quarterly events to promote
 OWASP and information security in general.
 
-Are you currently a member? Remember to support your local chapter by
-splitting your membership fee: 40% local chapter / 60% OWASP global!
-
 ## Speaking at OWASP Aarhus Chapter Events
 
 Call For Speakers is open - if you would like to present a talk at
 future OWASP Aarhus Chapter events - please review and agree with
-the [OWASP Speaker Agreement](Speaker_Agreement ) and send
+the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send
 the proposed talk title, abstract and speaker bio to any of the Chapter
 Leaders via e-mail:
 
@@ -144,7 +141,3 @@ A special thank you for all of our supporters!
 
 [Erhvervsakademi Aarhus](https://www.eaaa.dk)
 
-![Erhvervsakademi_Aarhus.png](Erhvervsakademi_Aarhus.png
-"Erhvervsakademi_Aarhus.png")
-
-[Category:OWASP Chapter](Category:OWASP_Chapter )
