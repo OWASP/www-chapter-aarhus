@@ -9,6 +9,8 @@ region: Europe
 
 
 ---
+## [LINK](https://www.dropbox.com/s/pw84p9x7d82vm3f/RedTeam%20Playbook%20OWASP%20February%2027.pdf?dl=0)
+
 The Aarhus local chapter aims to organise quarterly events to promote
 OWASP and information security in general.
 
