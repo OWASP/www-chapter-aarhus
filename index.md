@@ -9,8 +9,6 @@ region: Europe
 
 
 ---
-## [LINK](https://www.dropbox.com/s/pw84p9x7d82vm3f/RedTeam%20Playbook%20OWASP%20February%2027.pdf?dl=0)
-
 The Aarhus local chapter aims to organise quarterly events to promote
 OWASP and information security in general.
 
@@ -33,27 +31,18 @@ will send invites when the agenda is set.
 
 ### WHEN
 
-February 27, 2020
+May, 2020
 
 ### WHERE
 
-Værkmestergade 8, 21nd floor
-
-8000 Aarhus C
+Aarhus
 
 ### PROGRAM
 
 The agenda:
-  - 17h00 - 17h15: Welcome
-  - 17h15 - 18h00: The challenge of exposing and securing vital functions in the financial sector.
-  - 18h00 - 18h45: Food
-  - 18h45 - 19h30: Web compromise to big trouble - what we saw change in 2019.
-  - 19h30 - 19h45: Food
-  - 19h45 - 20h00: What is OWASP really? + a flagship.
+  - 17h00 - 20h00: TBD
 
 ### REGISTRATION
-
-Direct link to [registration](https://www.meetup.com/OWASP-Aarhus-Chapter/events/268084665/).
 
 Please follow us on [MeetUp](https://www.meetup.com/OWASP-Aarhus-Chapter/)
 
@@ -64,7 +53,7 @@ will send invites when the agenda is set.
 
 ### WHEN
 
-May, 2020
+June, 2020
 
 ### WHERE
 
@@ -80,6 +69,27 @@ TBD
 
 Please take in consideration that we usually have a finite number of
 seats.
+
+### WHEN
+
+February 27, 2020
+
+### WHERE
+
+Værkmestergade 8, 21nd floor
+
+8000 Aarhus C
+
+### PROGRAM
+
+The agenda:
+  - 17h00 - 17h15: Welcome
+  - 17h15 - 18h00: The challenge of exposing and securing vital functions in the financial sector.
+  - 18h00 - 18h45: Food
+  - 18h45 - 19h30: Lightning talks.
+  - 19h30 - 19h45: Break
+  - 19h45 - 20h00: What is OWASP really? + a flagship.
+
 
 ### WHEN
 
