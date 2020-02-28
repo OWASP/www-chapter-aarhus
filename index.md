@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Aarhus
-tags: example-tag
+tags: Aarhus
 level: 0
 
 region: Europe
