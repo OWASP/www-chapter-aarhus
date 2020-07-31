@@ -6,6 +6,9 @@ tags: Aarhus
 level: 0
 
 region: Europe
+meetup-group: OWASP-Aarhus-Chapter
+country: Denmark
+postal-code: 
 
 ---
 
