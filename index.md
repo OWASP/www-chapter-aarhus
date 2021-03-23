@@ -51,6 +51,8 @@ Please follow us on [MeetUp](https://www.meetup.com/OWASP-Aarhus-Chapter/)
 
 ## Future meeting
 
+{% include chapter_events.html group=page.meetup-group %}
+
 Please make the date available in your calendar. Date is confirmed, we
 will send invites when the agenda is set.
 
