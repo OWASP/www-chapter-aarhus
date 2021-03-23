@@ -29,46 +29,7 @@ Leaders via e-mail:
 
 ## Upcoming meeting
 
-Please make the date available in your calendar. Date is confirmed, we
-will send invites when the agenda is set.
-
-### WHEN
-
-May, 2020
-
-### WHERE
-
-Aarhus
-
-### PROGRAM
-
-The agenda:
-  - 17h00 - 20h00: TBD
-
-### REGISTRATION
-
-Please follow us on [MeetUp](https://www.meetup.com/OWASP-Aarhus-Chapter/)
-
-## Future meeting
-
 {% include chapter_events.html group=page.meetup-group %}
-
-Please make the date available in your calendar. Date is confirmed, we
-will send invites when the agenda is set.
-
-### WHEN
-
-June, 2020
-
-### WHERE
-
-TBD
-
-### PROGRAM
-
-TBD
-
-
 ## Supporters
 
 A special thank you for all of our supporters!
