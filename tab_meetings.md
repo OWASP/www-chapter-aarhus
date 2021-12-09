@@ -27,19 +27,17 @@ Street 1
 ### PROGRAM
 
 Pre agenda:
+  - 17h00 - 18h45: Possible workshop
+  - 18h45 - 19h00: Break
 
-  - 15h00 - 17h00: Purple team workshop
-
-This workshop will enable attendees to build either a detection lab, or
-a command and control infrastructure.
+Workshop description. 
 
 The agenda:
-  - 17h00 - 17h15: Welcome
-  - 17h15 - 18h00: The challenge of exposing and securing vital functions in the financial sector.
-  - 18h00 - 18h45: Food
-  - 18h45 - 19h30: Lightning talks.
-  - 19h30 - 19h45: Break
-  - 19h45 - 20h00: What is OWASP really? + a flagship.
+  - 19h00 - 19h15: Welcome
+  - 19h15 - 20h00: First talk
+  - 20h00 - 20h45: Snack break
+  - 20h45 - 21h30: Second talk
+  - 21h30 - 22h00: Socialising
 
 
 ## Past Events
