@@ -1,0 +1,11 @@
+https://owasp.org/www-chapter-aarhus/
+https://www.meetup.com/OWASP-Aarhus-Chapter/
+https://github.com/OWASP/www-chapter-aarhus/
+
+Slack:
+https://owasp.org/slack/invite
+
+Channel: chapters-aarhus
+
+Discord under OWASP Aarhus
+https://discord.com/invite/XCUja4Q
