@@ -1,0 +1,19 @@
+Mulige værtere:
+Kamstrup - Rasmus Lisby Fruergaard-Pedersen
+JyskeBank - Kristian Bodeholt
+ImproSec - 
+DEIF - Martin S. Mallan
+? - Andreas Eskerod
+
+Mulige foredrag: 
+Jens Heyn Roed Andersen - Hvordan OWASP giver værdi i forretninge
+Morten von Seelen - "Behind the scene of the breaches" / OWASP Mobile tests
+? - OWASP Top 10 - 2021
+? - The OWASP eco-system
+Helena Lybæk Guðmundsdóttir - Juridiske udfordringer/tanker omkring scanning på internet
+Michael Krumbak - Security in critical applications, when team turns to DevOps
+
+Virtual
+-----
+Jim Manico
+Troy Hunt
