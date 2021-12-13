@@ -4,6 +4,7 @@ JyskeBank - Kristian Bodeholt
 ImproSec - 
 DEIF - Martin S. Mallan
 ? - Andreas Eskerod
+Norlys - Jari
 
 Mulige foredrag: 
 Jens Heyn Roed Andersen - Hvordan OWASP giver værdi i forretninge
