@@ -1,15 +1,16 @@
 DECEMBER - INGEN
 
+VI BØR NOK HOLDE JAN VIRTUELT ELLER AFLYST DET GRUNDET CORONA
 JANUAR - Bør nok være Tirsdag d. 25. jan eller Torsdag d. 27. januar - Spurgt Jyske Bank, måske Kamstrup eller TrueSec?
 	Foredragsholder 1:     Emne/titel: 
 	Foredragsholder 2:     Emne/titel: 
 
 FEB. - 1. marts - Max. 50 - Whistleblower Software - Inge Lehmanns Gade 10, 8000 Aarhus C - Magnus Boye - https://www.linkedin.com/in/msboye/
-	Foredragsholder 1:     Emne/titel: 
+	Foredragsholder 1: Thomas Ljungberg Kristensen    Emne/titel:  OWASP Eco-system and Projects
 	Foredragsholder 2:     Emne/titel: 
 
 MARTS - 29. marts - Max. 60 - team.blue - Højvangen 4, 8660 Skanderborg - Emil Stahl Pedersen - https://www.linkedin.com/in/emilstahl/
-	Foredragsholder 1:     Emne/titel: 
+	Foredragsholder 1:  Michael Krumbak  Emne/titel: Arkitektur ift. devops toolchain
 	Foredragsholder 2:     Emne/titel: 
 
 APRIL - 26. april - Max. 300 - Erhvervsakademi Dania - Prinsens Allé 2, 8800 Viborg - Mette Petersen - https://www.linkedin.com/in/mette-petersen-19a2459/
