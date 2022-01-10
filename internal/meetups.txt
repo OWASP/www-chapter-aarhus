@@ -7,7 +7,7 @@ MARTS - 29. marts - Max. 60 - team.blue - Højvangen 4, 8660 Skanderborg - Emil 
 	Foredragsholder 2:     Emne/titel: 
 
 APRIL - 26. april - Max. 300 - Erhvervsakademi Dania - Prinsens Allé 2, 8800 Viborg - Mette Petersen - https://www.linkedin.com/in/mette-petersen-19a2459/
-	Foredragsholder 1: Karl Krukow (https://www.linkedin.com/in/krukow/) - Director Software Engineering, Github   Emne/titel: Kommer senere
+	Foredragsholder 1: Karl Krukow (https://www.linkedin.com/in/krukow/) - Director Software Engineering, Github   Emne/titel: Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code
 	Foredragsholder 2:     Emne/titel: 
 
 MAJ - (Torsdag d. 19. eller Tirsdag d. 24. maj) Måske ImproSec?
@@ -23,5 +23,27 @@ AUGUST - 30. august - Max. 96 - BankData - Stagehøjvej 30, 8600 Silkeborg - Ron
 	Foredragsholder 2:     Emne/titel: 
 	
 SEPTEMBER - 29. sept. - Max. 60 - DEIF - Frisenborgvej 33, 7800 Skive - Martin S. Mallan
-	Foredragsholder 1:     Emne/titel: 
+	Foredragsholder 1:  Helge Jensen (https://www.linkedin.com/in/helgejensen/) Full vertical leader: Business, Technology and Cyber Security-    Emne/titel: Kommer med i relation til 62433
 	Foredragsholder 2:     Emne/titel: 
+
+---
+Navn: Michael Krumbak
+Titel: Lead Cyber Security Architect
+Organisation: Forsvaret
+Præsentation: "Agile & Secure DevOps - a view from the trenches"
+
+Jeg vil tage udgangspunkt i nogle af de udfordringer man - som sikkerhedsprofessionel - står overfor i takt med at organisationen transformeres mod moderne arbejdsmetoder, processer og værktøjer.... og hvordan man kan løse nogle af dem.
+
+----
+Jesper Christensen - 29. marts i Skanderborg eller 30. August i Silkeborg
+------------
+Title: “Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code”
+
+Speaker: Karl Krukow, Director of Software Engineering at GitHub
+
+About the presentation
+This talk is an introduction to GitHub code scanning with CodeQL. Code scanning is part of GitHub’s new Advanced Security products. We will give an overview of how code scanning integrates in the developer workflow, and allows automatic detection of security vulnerabilities in code before it hits production. We will also touch upon how security researchers can perform security (variant) analysis on multiple code-bases in parallel to detect new vulnerabilities at scale.
+
+About Karl:
+Karl leads a group of engineers building GitHub code scanning. Before joining GitHub, Karl worked at the startup Xamarin on Xamarin Test Cloud, and co-founded LessPainful, a mobile test automation start-up which created the popular open-source mobile test framework, Calabash. Karl graduated with a PhD in Computer Science from University of Aarhus in 2006 and worked several years as a senior consultant before co-founding LessPainful.
+-----------
