@@ -26,6 +26,17 @@ SEPTEMBER - 29. sept. - Max. 60 - DEIF - Frisenborgvej 33, 7800 Skive - Martin S
 	Foredragsholder 1:  Helge Jensen (https://www.linkedin.com/in/helgejensen/) Full vertical leader: Business, Technology and Cyber Security-    Emne/titel: Kommer med i relation til 62433
 	Foredragsholder 2:     Emne/titel: 
 
+----
+Overskrift 
+4 tools to test and increase a company's cyber security posture.
+
+About the presentation 
+IT Security is sometimes considered a nuisance, expensive, complicated and hard to improve. In this presentation I will show 4 different tools which are fairly easy to use and can help you significantly increase your resilience to cyber attacks. 
+The tools are Nessus, PingCastle, BloodHound and CIS Benchmarks. The presentation is primarily a live demo of each of these tools, while I explain how they work and how they can be used by you as a company, an employee, or external consultant. This should allow you to both test and increase a company's cyber security posture and the reduce the risk and consequence of cyber attack such as ransomware. 
+
+About Jesper
+My name is Jesper, I am CEO and Cyber Security Professional at Hydra Cyber Security. I have a Masters degree in Computer Science and Engineering from DTU, with a special focus on Computer Security. Since 2014 I have worked as a consultant testing and advising clients on their security. My focus is offensive security combined client tailored advisory through close collaboration.
+
 ---
 Navn: Michael Krumbak
 Titel: Lead Cyber Security Architect
