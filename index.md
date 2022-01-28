@@ -4,7 +4,6 @@ layout: col-sidebar
 title: OWASP Aarhus
 tags: Aarhus
 level: 0
-
 region: Europe
 meetup-group: OWASP-Aarhus-Chapter
 country: Denmark
