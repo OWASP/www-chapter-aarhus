@@ -1,6 +1,6 @@
 FEB. - 1. marts - Max. 50 - Whistleblower Software - Inge Lehmanns Gade 10, 8000 Aarhus C - Magnus Boye - https://www.linkedin.com/in/msboye/
-	Foredragsholder 1: Thomas Ljungberg Kristensen    Emne/titel:  OWASP Eco-system and Projects
-	Foredragsholder 2:     Emne/titel: 
+	Foredragsholder 1: Rasmus Lisby Fruergaard-Pedersen https://www.linkedin.com/in/rfruergaard/    Emne/titel:  ?
+	Foredragsholder 2: Mikkel Rømer https://www.linkedin.com/in/mikkel-r%C3%B8mer/    Emne/titel: ?
 
 MARTS - 29. marts - Max. 60 - team.blue - Højvangen 4, 8660 Skanderborg - Emil Stahl Pedersen - https://www.linkedin.com/in/emilstahl/
 	Foredragsholder 1:  Michael Krumbak  Emne/titel: Arkitektur ift. devops toolchain
@@ -14,7 +14,7 @@ MAJ - (Torsdag d. 19. eller Tirsdag d. 24. maj) Måske ImproSec?
 	Foredragsholder 1:     Emne/titel: 
 	Foredragsholder 2:     Emne/titel: 
 
-JUNI - (Tirsdag d. 21. eller torsdag d. 23. juni) 
+IKKE OPRETTET i MEETUP - JUNI - Tirsdag d. 21. juni - Max. 70. - Eficode - Aabogade 15, 8200 Aarhus N, Denmark - Mads Baggesen
 	Foredragsholder 1:     Emne/titel: 
 	Foredragsholder 2:     Emne/titel: 
 
