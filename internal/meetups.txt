@@ -1,20 +1,17 @@
-FEB. - 1. marts - Max. 50 - Whistleblower Software - Inge Lehmanns Gade 10, 8000 Aarhus C - Magnus Boye - https://www.linkedin.com/in/msboye/
-	LAGT PÅ MEETUP
-
 MARTS - 29. marts - Max. 60 - team.blue - Højvangen 4, 8660 Skanderborg - Emil Stahl Pedersen - https://www.linkedin.com/in/emilstahl/
 	Foredragsholder 1:  Michael Krumbak  Emne/titel: Arkitektur ift. devops toolchain
 	Foredragsholder 2:  Jens Heyn Roed Andersen   Emne/titel: the importance of secure coding in IoT
 
 APRIL - 26. april - Max. 300 - Erhvervsakademi Dania - Prinsens Allé 2, 8800 Viborg - Mette Petersen - https://www.linkedin.com/in/mette-petersen-19a2459/
 	Foredragsholder 1: Karl Krukow (https://www.linkedin.com/in/krukow/) - Director Software Engineering, Github   Emne/titel: Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code
-	Foredragsholder 2:     Emne/titel: 
+	Foredragsholder 2: Morten von Seelen    Emne/titel: Noget omkring OWASP Mobile Testing Guide
 
 MAJ - (Torsdag d. 19. eller Tirsdag d. 24. maj) Måske ImproSec?
 	Foredragsholder 1:     Emne/titel: 
 	Foredragsholder 2:     Emne/titel: 
 
 IKKE OPRETTET i MEETUP - JUNI - Tirsdag d. 21. juni - Max. 70. - Eficode - Aabogade 15, 8200 Aarhus N, Denmark - Mads Baggesen
-	Foredragsholder 1:     Emne/titel: 
+	Foredragsholder 1:  Måske Mikkel Rømer?   Emne/titel: 
 	Foredragsholder 2:     Emne/titel: 
 
 AUGUST - 30. august - Max. 96 - BankData - Stagehøjvej 30, 8600 Silkeborg - Ronni Laursen - https://www.linkedin.com/in/ronnilaursen/
@@ -23,7 +20,7 @@ AUGUST - 30. august - Max. 96 - BankData - Stagehøjvej 30, 8600 Silkeborg - Ron
 	
 SEPTEMBER - 29. sept. - Max. 60 - DEIF - Frisenborgvej 33, 7800 Skive - Martin S. Mallan
 	Foredragsholder 1:  Helge Jensen (https://www.linkedin.com/in/helgejensen/) Full vertical leader: Business, Technology and Cyber Security-    Emne/titel: Kommer med i relation til 62433
-	Foredragsholder 2:     Emne/titel: 
+	Foredragsholder 2:  Tentative Claus Ritter (BeumerGroup)   Emne/titel: 
 
 ----
 Overskrift 
@@ -45,7 +42,6 @@ Præsentation: "Agile & Secure DevOps - a view from the trenches"
 Jeg vil tage udgangspunkt i nogle af de udfordringer man - som sikkerhedsprofessionel - står overfor i takt med at organisationen transformeres mod moderne arbejdsmetoder, processer og værktøjer.... og hvordan man kan løse nogle af dem.
 
 ----
-Jesper Christensen - 29. marts i Skanderborg eller 30. August i Silkeborg
 ------------
 Title: “Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code”
 
