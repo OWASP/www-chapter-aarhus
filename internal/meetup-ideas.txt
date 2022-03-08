@@ -2,7 +2,6 @@ Mulige værtere:
 Kamstrup - Rasmus Lisby Fruergaard-Pedersen
 JyskeBank - Kristian Bodeholt
 ImproSec - 
-DEIF - Martin S. Mallan
 ? - Andreas Eskerod
 Norlys - Jari
 
@@ -12,7 +11,10 @@ Morten von Seelen - "Behind the scene of the breaches" / OWASP Mobile tests
 ? - OWASP Top 10 - 2021
 ? - The OWASP eco-system
 Helena Lybæk Guðmundsdóttir - Juridiske udfordringer/tanker omkring scanning på internet
-Michael Krumbak - Security in critical applications, when team turns to DevOps
+Daniel Milo
+Simon Klein
+Høgsberg
+Microsoft
 
 Virtual
 -----
