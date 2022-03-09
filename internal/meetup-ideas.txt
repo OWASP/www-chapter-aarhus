@@ -14,6 +14,8 @@ Helena Lybæk Guðmundsdóttir - Juridiske udfordringer/tanker omkring scanning 
 Daniel Milo
 Simon Klein
 Høgsberg
+Robby Mnemonic
+Adam Shostack
 Microsoft
 
 Virtual
