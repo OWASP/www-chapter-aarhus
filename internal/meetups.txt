@@ -4,6 +4,10 @@ APRIL - 26. april - Max. 300 - Erhvervsakademi Dania - Prinsens Allé 2, 8800 Vi
 	Foredragsholder 1: Karl Krukow (https://www.linkedin.com/in/krukow/) - Director Software Engineering, Github   Emne/titel: Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code
 	Foredragsholder 2: Morten von Seelen    Emne/titel: Noget omkring OWASP Mobile Testing Guide
 
+TENTATIVE VIRTUAL MAJ - Maj 24. - Zoom
+	Foredragsholder 1: Måske Adam Shostack
+	Foredragsholder 2:
+
 JUNI - Tirsdag d. 21. juni - Max. 70. - Eficode - Aabogade 15, 8200 Aarhus N, Denmark - Mads Baggesen
 	Foredragsholder 1:  Måske Mikkel Rømer?   Emne/titel: 
 	Foredragsholder 2:  Måske Nikolaj?   Emne/titel: 
@@ -15,6 +19,12 @@ AUGUST - 30. august - Max. 96 - BankData - Stagehøjvej 30, 8600 Silkeborg - Ron
 SEPTEMBER - 29. sept. - Max. 60 - DEIF - Frisenborgvej 33, 7800 Skive - Martin S. Mallan
 	Foredragsholder 1:  Helge Jensen (https://www.linkedin.com/in/helgejensen/) Full vertical leader: Business, Technology and Cyber Security-    Emne/titel: Kommer med i relation til 62433
 	Foredragsholder 2:  Tentative Claus Ritter (BeumerGroup)   Emne/titel: 
+
+TENTATIVE - OKTOBER - tirsdag d. 25. okt - Max. ?? - Kamstrup Skanderborg - RLP
+TENTATIVE - NOVEMBER - Tuesday 29. nov. - OWASP CTF with presentations 
+TENTATIVE - JANUAR - Tuesday d. 31. jan.
+TENTATIVE - FEB - Tuesday 21st Feb
+TENTATIVE - MARCH - Tuesday 28th March
 
 ---
 "The OWASP Mobile Security Testing framework; how to use it and the consequences of insecure applications in the mobile domain."
