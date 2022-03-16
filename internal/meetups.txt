@@ -4,8 +4,8 @@ APRIL - 26. april - Max. 300 - Erhvervsakademi Dania - Prinsens Allé 2, 8800 Vi
 	Foredragsholder 1: Karl Krukow (https://www.linkedin.com/in/krukow/) - Director Software Engineering, Github   Emne/titel: Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code
 	Foredragsholder 2: Morten von Seelen    Emne/titel: Noget omkring OWASP Mobile Testing Guide
 
-TENTATIVE VIRTUAL MAJ - Maj 24. - Zoom
-	Foredragsholder 1: Måske Adam Shostack
+VIRTUAL MAJ - Maj 24. - Zoom
+	Foredragsholder 1: Liz Keogh
 	Foredragsholder 2:
 
 JUNI - Tirsdag d. 21. juni - Max. 70. - Eficode - Aabogade 15, 8200 Aarhus N, Denmark - Mads Baggesen
