@@ -6,10 +6,10 @@ APRIL - 26. april - Max. 300 - Erhvervsakademi Dania - Prinsens Allé 2, 8800 Vi
 
 VIRTUAL MAJ - Maj 24. - Zoom
 	Foredragsholder 1: Liz Keogh
-	Foredragsholder 2: Microsoft (Ole) eller SANS (Eric J or/and Oliver)
+	Foredragsholder 2: Microsoft (Ole) eller SANS (Eric J or/and Oliver) eller Robby?
 
 JUNI - Tirsdag d. 21. juni - Max. 70. - Eficode - Aabogade 15, 8200 Aarhus N, Denmark - Mads Baggesen
-	Foredragsholder 1:  Mikkel Rømer   Emne/titel: 
+	Foredragsholder 1:  Mikkel Rømer   Emne/titel:    -- Måske flyt Mikkel til en anden gang
 	Foredragsholder 2:  Måske Nikolaj?   Emne/titel: 
 
 AUGUST - 30. august - Max. 96 - BankData - Stagehøjvej 30, 8600 Silkeborg - Ronni Laursen - https://www.linkedin.com/in/ronnilaursen/
@@ -21,8 +21,8 @@ SEPTEMBER - 29. sept. - Max. 60 - DEIF - Frisenborgvej 33, 7800 Skive - Martin S
 	Foredragsholder 2:  Tentative Claus Ritter (BeumerGroup)   Emne/titel: 
 
 TENTATIVE - OKTOBER - tirsdag d. 25. okt - Max. ?? - Kamstrup Skanderborg - RLP
-TENTATIVE - NOVEMBER - Tuesday 29. nov. - OWASP CTF with presentations 
-TENTATIVE - JANUAR - Tuesday d. 31. jan.
+TENTATIVE - VIRTUAL NOVEMBER - Tuesday 29. nov. - Eric J. SANS Cloud 
+TENTATIVE - JANUAR - Tuesday d. 31. jan. -OWASP CTF with presentations 
 TENTATIVE - FEB - Tuesday 21st Feb
 TENTATIVE - MARCH - Tuesday 28th March
 
