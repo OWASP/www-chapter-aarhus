@@ -2,15 +2,15 @@ ONLY EVENTS NOT COMPLETE IN MEETUP!
 
 APRIL - 26. april - Max. 300 - Erhvervsakademi Dania - Prinsens Allé 2, 8800 Viborg - Mette Petersen - https://www.linkedin.com/in/mette-petersen-19a2459/
 	Foredragsholder 1: Karl Krukow (https://www.linkedin.com/in/krukow/) - Director Software Engineering, Github   Emne/titel: Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code
-	Foredragsholder 2: Morten von Seelen    Emne/titel: Noget omkring OWASP Mobile Testing Guide
+	Foredragsholder 2: Mikkel    Emne/titel: Noget omkring OWASP Mobile Testing Guide
 
 VIRTUAL MAJ - Maj 24. - Zoom
 	Foredragsholder 1: Liz Keogh
 	Foredragsholder 2: Microsoft (Ole) eller SANS (Eric J or/and Oliver) eller Robby?
 
 JUNI - Tirsdag d. 21. juni - Max. 70. - Eficode - Aabogade 15, 8200 Aarhus N, Denmark - Mads Baggesen
-	Foredragsholder 1:  Mikkel Rømer   Emne/titel:    -- Måske flyt Mikkel til en anden gang
-	Foredragsholder 2:  Måske Nikolaj?   Emne/titel: 
+	Foredragsholder 1:  Anders   Emne/titel:
+	Foredragsholder 2:  Nikolaj   Emne/titel: 
 
 AUGUST - 30. august - Max. 96 - BankData - Stagehøjvej 30, 8600 Silkeborg - Ronni Laursen - https://www.linkedin.com/in/ronnilaursen/
 	Foredragsholder 1: Jesper (BS) Christensen    Emne/titel: 
@@ -44,15 +44,7 @@ The tools are Nessus, PingCastle, BloodHound and CIS Benchmarks. The presentatio
 About Jesper
 My name is Jesper, I am CEO and Cyber Security Professional at Hydra Cyber Security. I have a Masters degree in Computer Science and Engineering from DTU, with a special focus on Computer Security. Since 2014 I have worked as a consultant testing and advising clients on their security. My focus is offensive security combined client tailored advisory through close collaboration.
 
----
-Navn: Michael Krumbak
-Titel: Lead Cyber Security Architect
-Organisation: Forsvaret
-Præsentation: "Agile & Secure DevOps - a view from the trenches"
 
-Jeg vil tage udgangspunkt i nogle af de udfordringer man - som sikkerhedsprofessionel - står overfor i takt med at organisationen transformeres mod moderne arbejdsmetoder, processer og værktøjer.... og hvordan man kan løse nogle af dem.
-
-----
 ------------
 Title: “Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code”
 
