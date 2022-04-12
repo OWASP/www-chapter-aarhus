@@ -26,6 +26,8 @@ Leaders via e-mail:
 
 `thomas.kristensen (at) owasp.org`
 
+`mikkel.romer (at) owasp.org`
+
 ## Upcoming meeting
 
 {% include chapter_events.html group=page.meetup-group %}
