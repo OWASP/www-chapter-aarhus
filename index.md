@@ -31,6 +31,9 @@ Leaders via e-mail:
 ## Upcoming meeting
 
 {% include chapter_events.html group=page.meetup-group %}
+
+Please see https://www.meetup.com/OWASP-Aarhus-Chapter/events/ for more events or if no events are showned!
+
 ## Supporters
 
 A special thank you for all of our supporters!
