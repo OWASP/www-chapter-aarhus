@@ -32,7 +32,7 @@ Leaders via e-mail:
 
 {% include chapter_events.html group=page.meetup-group %}
 
-Please see https://www.meetup.com/OWASP-Aarhus-Chapter/events/ for more events or if no events are showned!
+Please see https://www.meetup.com/OWASP-Aarhus-Chapter/events/ for more events or if no events are shown!
 
 ## Supporters
 
