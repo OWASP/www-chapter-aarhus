@@ -1,13 +1,5 @@
 ONLY EVENTS NOT COMPLETE IN MEETUP!
 
-APRIL - 26. april - Max. 300 - Erhvervsakademi Dania - Prinsens Allé 2, 8800 Viborg - Mette Petersen - https://www.linkedin.com/in/mette-petersen-19a2459/
-	Foredragsholder 1: Karl Krukow (https://www.linkedin.com/in/krukow/) - Director Software Engineering, Github   Emne/titel: Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code
-	Foredragsholder 2: Mikkel    Emne/titel: Noget omkring OWASP Mobile Testing Guide
-
-VIRTUAL MAJ - Maj 24. - Zoom
-	Foredragsholder 1: Liz Keogh
-	Foredragsholder 2: Karina Popova - Shifting left
-
 JUNI - Tirsdag d. 21. juni - Max. 70. - Eficode - Aabogade 15, 8200 Aarhus N, Denmark - Mads Baggesen
 	Foredragsholder 1:  Anders   Emne/titel: Kubernetes
 	Foredragsholder 2:  Nikolaj   Emne/titel: Kubernetes
@@ -26,7 +18,7 @@ TENTATIVE - OKTOBER - tirsdag d. 25. okt - Max. ?? - Kamstrup Skanderborg - RLP
 
 TENTATIVE - VIRTUAL NOVEMBER - Tuesday 29. nov. -  
 	Foredragsholder 1: Eric J.    Emne/titel: SANS Cloud
-	Foredragsholder 2: Maybe Mike Jankowski-Lorek from CQure  Emne/titel: 
+	Foredragsholder 2: Mike Jankowski-Lorek from CQure  Emne/titel: 
 
 TENTATIVE - JANUAR - Tuesday d. 31. jan. - Norlys - Aarhus - Frederk - OWASP CTF Juice Shop
 	Foredragsholder 1:    Emne/titel: 
@@ -40,14 +32,6 @@ TENTATIVE - MARCH - Tuesday 28th March
 	Foredragsholder 1:    Emne/titel: 
 	Foredragsholder 2:    Emne/titel: 
 
----
-"The OWASP Mobile Security Testing framework; how to use it and the consequences of insecure applications in the mobile domain."
-Mikkel Rømer, Cyber Security Expert and co-founder of Truesec Denmark and co-chapter lead OWASP Aarhus
-
-About Mikkel:
-Mikkel is a cyber security engineer and co-founder of Truesec Denmark. My main focus area is offensive cyber security for breach prevention. This includes penetration testing and adversary emulation within highly complex infrastructures, mobile applications, and web application. Besides offensive cyber engagements I have led and designed thorough security analysis exercises of enterprise applications, including review and guidance within secure development practices.
-
-----
 Overskrift 
 4 tools to test and increase a company's cyber security posture.
 
@@ -59,14 +43,3 @@ About Jesper
 My name is Jesper, I am CEO and Cyber Security Professional at Hydra Cyber Security. I have a Masters degree in Computer Science and Engineering from DTU, with a special focus on Computer Security. Since 2014 I have worked as a consultant testing and advising clients on their security. My focus is offensive security combined client tailored advisory through close collaboration.
 
 
-------------
-Title: “Code scanning with CodeQL: Early, automatic, developer-friendly detection of security vulnerabilities in code”
-
-Speaker: Karl Krukow, Director of Software Engineering at GitHub
-
-About the presentation
-This talk is an introduction to GitHub code scanning with CodeQL. Code scanning is part of GitHub’s new Advanced Security products. We will give an overview of how code scanning integrates in the developer workflow, and allows automatic detection of security vulnerabilities in code before it hits production. We will also touch upon how security researchers can perform security (variant) analysis on multiple code-bases in parallel to detect new vulnerabilities at scale.
-
-About Karl:
-Karl leads a group of engineers building GitHub code scanning. Before joining GitHub, Karl worked at the startup Xamarin on Xamarin Test Cloud, and co-founded LessPainful, a mobile test automation start-up which created the popular open-source mobile test framework, Calabash. Karl graduated with a PhD in Computer Science from University of Aarhus in 2006 and worked several years as a senior consultant before co-founding LessPainful.
------------
