@@ -24,10 +24,10 @@ TENTATIVE - JANUAR - Tuesday d. 31. jan. - Norlys - Aarhus - Frederk - OWASP CTF
 	Foredragsholder 1:    Emne/titel: 
 	Foredragsholder 2:    Emne/titel: 
 
-TENTATIVE - FEB - Tuesday 21st Feb
-	Foredragsholder 1:    Emne/titel: 
-	Foredragsholder 2:    Emne/titel: 
+NOTE: Bør nok kun holde hver andet mdr.
 
+DROPPES - TENTATIVE - FEB - Tuesday 21st Feb
+	
 TENTATIVE - MARCH - Tuesday 28th March
 	Foredragsholder 1:    Emne/titel: 
 	Foredragsholder 2:    Emne/titel: 
