@@ -16,12 +16,22 @@ TENTATIVE - JANUAR - Tuesday d. 31. jan. - Norlys - Aarhus - Frederk - OWASP CTF
 	Foredragsholder 1:    Emne/titel: 
 	Foredragsholder 2:    Emne/titel: 
 
-NOTE: Bør nok kun holde hver andet mdr.
-
-DROPPES - TENTATIVE - FEB - Tuesday 21st Feb
-	
-TENTATIVE - MARCH - Tuesday 28th March
+TENTATIVE - VIRTUAL MARCH - Tuesday 28th March
 	MÅSKE Foredragsholder 1: Eric J.    Emne/titel: SANS Cloud
 	Foredragsholder 2: Adam Shostack   Emne/titel: 
+
+TENTATIVE - MAY - Tuesday May 30th
+	Foredragsholder 1:    Emne/titel: 
+	Foredragsholder 2:    Emne/titel: 
+
+TENTATIVE - JUNE - Tuesday - June 27th
+	Foredragsholder 1:    Emne/titel: 
+	Foredragsholder 2:    Emne/titel: 
+
+TENTATIVE - AUG - Tuesday - August 29th
+	Foredragsholder 1:    Emne/titel: 
+	Foredragsholder 2:    Emne/titel: 
+
+
 
 
