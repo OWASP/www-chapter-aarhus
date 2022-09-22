@@ -12,6 +12,8 @@ TENTATIVE - VIRTUAL NOVEMBER - Tuesday 29. nov. -
 	Foredragsholder 1:    Emne/titel: 
 	Foredragsholder 2: Mike Jankowski-Lorek from CQure  Emne/titel: 
 
+JANUAR - 31. januar - Karl Krukow, Github (kantinen i INCUBA Katrinebjerg, Åbogade 15, 8200 Aarhus)
+
 TENTATIVE - FEBRUAR - Tuesday d. 28. feb. - Norlys - Aarhus - Frederk - OWASP CTF Juice Shop
 	Foredragsholder 1:    Emne/titel: 
 	Foredragsholder 2:    Emne/titel: 
