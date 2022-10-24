@@ -1,30 +1,21 @@
 ONLY EVENTS NOT COMPLETE IN MEETUP!
 
-SEPTEMBER - 29. sept. - Max. 60 - DEIF - Frisenborgvej 33, 7800 Skive - Martin S. Mallan
-	Foredragsholder 1:  Helge Jensen (https://www.linkedin.com/in/helgejensen/) Full vertical leader: Business, Technology and Cyber Security-    Emne/titel: Kommer med i relation til 62433
-	Foredragsholder 2:  Tentative Claus Ritter (BeumerGroup)   Emne/titel: 
-
-TENTATIVE - OKTOBER - tirsdag d. 25. okt - Max. 45 - Danske Commodities - Rasmus Vestergaard - https://www.linkedin.com/in/rasmusve/
-	Foredragsholder 1:  Daniel Milo Farkner  Emne/titel: 
-	Foredragsholder 2:  Thomas Ljungberg Kristensen  Emne/titel: 
-
 TENTATIVE - VIRTUAL NOVEMBER - Thursday  1st dec. -  
 	Foredragsholder 1:    Emne/titel: 
 	Foredragsholder 2: Mike Jankowski-Lorek from CQure  Emne/titel: 
 
 JANUAR - 31. januar - Karl Krukow, Github (kantinen i INCUBA Katrinebjerg, Åbogade 15, 8200 Aarhus)
+	Foredragsholder 1:   Emne/titel: 
+	Foredragsholder 2:   Emne/titel: 
 
 TENTATIVE - FEBRUAR - Tuesday d. 28. feb. - Norlys - Aarhus - Frederk - OWASP CTF Juice Shop
-	Foredragsholder 1:    Emne/titel: 
-	Foredragsholder 2:    Emne/titel: 
-
+	
 TENTATIVE - VIRTUAL MARCH - Tuesday 28th March
 	MÅSKE Foredragsholder 1: Eric J.    Emne/titel: SANS Cloud
 	Foredragsholder 2: Adam Shostack   Emne/titel: 
 
 TENTATIVE - MAY - Tuesday May 30th
-	Foredragsholder 1:    Emne/titel: 
-	Foredragsholder 2:    Emne/titel: 
+	OT Security tema med Mikael Vingaard og venner 
 
 TENTATIVE - VIRTUAL JUNE - Tuesday - June 27th
 	Foredragsholder 1: Liz   Emne/titel: 
