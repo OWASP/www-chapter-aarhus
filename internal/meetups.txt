@@ -1,17 +1,24 @@
 ONLY EVENTS NOT COMPLETE IN MEETUP!
 
-TENTATIVE - VIRTUAL NOVEMBER - Thursday  1st dec. -  
+VIRTUAL NOVEMBER - Thursday  1st dec. -  
 	Foredragsholder 1:    Emne/titel: 
 	Foredragsholder 2: Mike Jankowski-Lorek from CQure  Emne/titel: 
 
 JANUAR - 31. januar - Karl Krukow, Github (kantinen i INCUBA Katrinebjerg, Åbogade 15, 8200 Aarhus)
-	Foredragsholder 1:   Emne/titel: 
-	Foredragsholder 2:   Emne/titel: 
+	Lightning talks
+	19:00 - 19:20 - Velkomst, intro Github og OWAPS
+	19:20 - 19:40 - Jens Roed Andersen
+	19:45 - 20:05
+	20:10 - 20:30
+	20:35 - 20:55
+	21:00 - 21:20 
+	21:20 - 21:30 Farvel, OWASP og Github
 
-TENTATIVE - FEBRUAR - Tuesday d. 28. feb. - Norlys - Aarhus - Frederk - OWASP CTF Juice Shop
+
+FEBRUAR - Tuesday d. 28. feb. - Norlys - Aarhus - Frederk - OWASP CTF Juice Shop
 	
-TENTATIVE - VIRTUAL MARCH - Tuesday 28th March
-	MÅSKE Foredragsholder 1: Eric J.    Emne/titel: SANS Cloud
+VIRTUAL MARCH - Tuesday 28th March
+	Foredragsholder 1: Eric J.    Emne/titel: SANS Cloud
 	Foredragsholder 2: Adam Shostack   Emne/titel: 
 
 TENTATIVE - MAY - Tuesday May 30th - Conscia - Dennis Perto
