@@ -11,7 +11,7 @@ JANUAR - 31. januar - Karl Krukow, Github (kantinen i INCUBA Katrinebjerg, Åbog
 	19:45 - 20:05 - Martin Duedahl
 	20:10 - 20:30 - Pause
 	20:35 - 20:55 - Klaus - CrowdSec
-	21:00 - 21:20 
+	21:00 - 21:20 - Oliver Thomas
 	21:20 - 21:30 Farvel, OWASP og Github
 
 
