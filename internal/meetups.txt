@@ -1,13 +1,9 @@
 ONLY EVENTS NOT COMPLETE IN MEETUP!
 
-VIRTUAL NOVEMBER - Thursday  1st dec. -  
-	Foredragsholder 1: Mike Jankowski-Lorek from CQure   Emne/titel: 
-	Foredragsholder 2: Klaus - CrowdSec  Emne/titel: 
-
 JANUAR - 31. januar - Karl Krukow, Github (kantinen i INCUBA Katrinebjerg, Åbogade 15, 8200 Aarhus)
 	Lightning talks
 	19:00 - 19:20 - Velkomst, intro Github og OWAPS
-	19:20 - 19:40 - Jens Roed Andersen
+	19:20 - 19:40 - Jens Roed Andersen, 15 min.
 	19:45 - 20:05 - Martin Duedahl
 	20:10 - 20:30 - Pause
 	20:35 - 20:55 - Klaus - CrowdSec
