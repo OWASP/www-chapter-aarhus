@@ -12,6 +12,10 @@ JANUAR - 31. januar - Karl Krukow, Github (kantinen i INCUBA Katrinebjerg, Åbog
 	20:10 - 20:30 - Pause
 	20:35 - 20:55 - Klaus - CrowdSec
 	21:00 - 21:20 - Oliver Thomas
+	Jeg hedder Oliver, 23 år gammel og er medlem i 0dayAarhus. Jeg læser datalogi på 3. semester og har hacket i snart 1 år. Jeg vil gerne lave en live demo af et Heap Exploit i Glibc.	
+
+	Jeg tror det kommer til at tage  10 minutter, men det er svært at sige præcist på nuværende tidspunkt :-)
+	
 	21:20 - 21:30 Farvel, OWASP og Github
 
 
