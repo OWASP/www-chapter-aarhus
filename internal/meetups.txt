@@ -1,24 +1,5 @@
 ONLY EVENTS NOT COMPLETE IN MEETUP!
 
-JANUAR - 31. januar - Karl Krukow, Github (kantinen i INCUBA Katrinebjerg, Åbogade 15, 8200 Aarhus)
-	Lightning talks
-	19:00 - 19:20 - Velkomst, intro Github og OWAPS
-	19:20 - 19:40 - Jens Roed Andersen, 15 min.
-	
-	Jens Roed Andersen is what can be called "first generation cyberwarrior" and a real oldtimer, as he started working in information security 25 years ago. Initially as the CISO for Arla Foods and Energinet.dk and since as freelance consultant, with many Danish and foreign clients on his list. Recently, he has been focusing on OT security and the secure SDLC, particularly how to produce secure code, while at the same time staying competitive.
-His talk will be on his experiences on using storytelling as a means to explaining this quite complex area to outsiders. The somewhat short history of cybersecurity has shown though, that one of the biggest obstacles is in fact not necessarily technical, but more in direction of explaining the "why, what and how" to the money men/women in the business/management.
-	
-	19:45 - 20:05 - Martin Duedahl - 10 min
-	20:10 - 20:30 - Pause
-	20:35 - 20:55 - Klaus - CrowdSec
-	21:00 - 21:20 - Oliver Thomas
-	Jeg hedder Oliver, 23 år gammel og er medlem i 0dayAarhus. Jeg læser datalogi på 3. semester og har hacket i snart 1 år. Jeg vil gerne lave en live demo af et Heap Exploit i Glibc.	
-
-	Jeg tror det kommer til at tage  10 minutter, men det er svært at sige præcist på nuværende tidspunkt :-)
-	
-	21:20 - 21:30 Farvel, OWASP og Github
-
-
 FEBRUAR - Tuesday d. 28. feb. - Norlys - Aarhus - Frederk - OWASP CTF Juice Shop
 	
 VIRTUAL MARCH - Tuesday 28th March
@@ -28,7 +9,7 @@ VIRTUAL MARCH - Tuesday 28th March
 TENTATIVE - MAY - Tuesday May 30th - Conscia - Dennis Perto
 	OT Security tema med Mikael Vingaard og venner 
 
-TENTATIVE - VIRTUAL JUNE - Tuesday - June 27th
+TENTATIVE - VIRTUAL JUNE - Tuesday - June 20th
 	Foredragsholder 1: Liz   Emne/titel: 
 	Foredragsholder 2:    Emne/titel: 
 
