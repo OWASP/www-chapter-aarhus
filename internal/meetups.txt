@@ -1,22 +1,53 @@
+Flow / Process
+- The day after: Say thanks to the last presenters
+- One month before: Put up the next on meetup and linkedin
+- 14 days before: Remind people to sign up
+- 1 day before registration closes: Remind people to sign up
+- On closing the registration: Report numbers to the host if physically
+- 2 days before event: Remind people signed up
+- On the day: Do the event.
+
+For the presenters: 
+- Send calendar invite (with zoom link) if needed
+
 ONLY EVENTS NOT COMPLETE IN MEETUP!
 
-FEBRUAR - Tuesday d. 28. feb. - Norlys - Aarhus - Frederk - OWASP CTF Juice Shop
-	
-VIRTUAL MARCH - Tuesday 28th March
-	Foredragsholder 1: Eric J.    Emne/titel: SANS Cloud
-	Foredragsholder 2: Adam Shostack   Emne/titel: 
-
 TENTATIVE - MAY - Tuesday May 30th - Conscia - Dennis Perto
+	HAVE TO BE MOVED - Suggested May 25th but have not been coordinated with Dennis - Mikael will get back week 11.
 	OT Security tema med Mikael Vingaard og venner 
 
 TENTATIVE - VIRTUAL JUNE - Tuesday - June 20th
 	Foredragsholder 1: Liz   Emne/titel: 
 	Foredragsholder 2:    Emne/titel: 
 
-TENTATIVE - AUG - Tuesday - August 29th
-	Foredragsholder 1:    Emne/titel: 
+TENTATIVE - AUG - Tuesday - August 22th (Could be Thursday 24th) - Lighting Talks
+
+SEPTEMBER - Tuesday - 26th - DEIF Aalborg
+	Foredragsholder 1: Jens Myrup   Emne/titel: 
 	Foredragsholder 2:    Emne/titel: 
 
+TENTATIVE - OKT - 24th, 26th or 31st
+TENTATIVE - NOV - 21st, 23th
 
+POTENTIALS SPEAKERS
+--------------------
+Crypto Aarhus. 
+Lighting talks
+DEIF
+Virtual SANS - NIST / ISO
+Virtual PostNord - Erkan
+Thomas WS
+Virtual Hvad er OWASP (OWASP Eco-system)
+Kvinder i IT (Diversitet)
+Virtual Robby Mnemonic
+Simon Klein
+
+POTENTIALS HOSTS
+-------------------
+ImproSec
+Lego
+EAAA
+KMD? (Andrew)
+Vestas
 
 
