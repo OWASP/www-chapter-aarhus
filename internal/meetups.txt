@@ -41,6 +41,7 @@ Virtual Hvad er OWASP (OWASP Eco-system)
 Kvinder i IT (Diversitet)
 Virtual Robby Mnemonic
 Simon Klein
+Mads Peter Lindberg Sundgaard - https://destinationaarhus.com/event/implementing-it-security-assessments-for-applications-developed-in-sos-international-morning-meetup-
 
 POTENTIALS HOSTS
 -------------------
