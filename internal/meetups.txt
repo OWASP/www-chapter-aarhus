@@ -45,6 +45,7 @@ Virtual Robby Mnemonic
 Simon Klein
 Mads Peter Lindberg Sundgaard - https://destinationaarhus.com/event/implementing-it-security-assessments-for-applications-developed-in-sos-international-morning-meetup-
  CitizenLabs?
+Christian Bech Henriksen https://destinationaarhus.com/event/current-threats-and-trends-in-cyber-security-morning-meetup-?vgo_ee=xQTCHZeR%2FtzkfDRJiOckyRlfcWjbW5Cg2RXaStcqFr1Kcfcw%3AKnvJXYfWb9IsfB3%2BUf74ThfIPgqfYgGY
 
 POTENTIALS HOSTS
 -------------------
