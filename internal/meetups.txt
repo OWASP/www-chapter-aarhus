@@ -10,34 +10,31 @@ Flow / Process
 For the presenters: 
 - Send calendar invite (with zoom link) if needed
 
-ONLY EVENTS NOT COMPLETE IN MEETUP!
+Nov 21. - Virtuelt
+JAN d. . - Improsec Aarhus - se email - De finder to 
 
-TENTATIVE - MAY/JUNE - Tuesday June 1st - Conscia - Dennis Perto
-	OT Security tema med Mikael Vingaard og venner 
-
-TENTATIVE - VIRTUAL JUNE - Tuesday - June 20th
-	Foredragsholder 1: Liz   Emne/titel: 
-	Foredragsholder 2:    Emne/titel: 
-
-TENTATIVE - AUG - Tuesday - August 22th (Could be Thursday 24th) - Lighting Talks
-
-SEPTEMBER - Tuesday - 26th - DEIF Aalborg
-	Foredragsholder 1: Jens Myrup   Emne/titel: 
-	Foredragsholder 2:    Emne/titel: 
-
-TENTATIVE - OKT - 24th, 26th or 31st
-TENTATIVE - NOV - 21st, 23th
-
-JAN - Improsec Aarhus - se email
+Feb d. 27. (Aarhus) Michael M. 
+Marts
+Apr 30?
+Maj 21?
+Juni 25?
 
 POTENTIALS SPEAKERS
 --------------------
+Laura Lynggard Nielsen - Hvorfor er sikkerhed så svært
 Zetland?
-Crypto Aarhus. 
+Crypto Aarhus
+Privacy Aarhus
+Systematic - Michael
+Thomas - Danske Bank
+Lunar - de holdte en præsentation fornyeligt
+Kvantecomputere
+Cocoders
+Coding Pirates
+Zero day Aarhus
+NC3
+Lars Karlslund - Adalanche
 Lighting talks
-DEIF
-Virtual SANS - NIST / ISO
-Virtual PostNord - Erkan
 Thomas WS
 Virtual Hvad er OWASP (OWASP Eco-system)
 Kvinder i IT (Diversitet)
@@ -45,8 +42,8 @@ Virtual Robby Mnemonic
 Simon Klein
 Mads Peter Lindberg Sundgaard - https://destinationaarhus.com/event/implementing-it-security-assessments-for-applications-developed-in-sos-international-morning-meetup-
  CitizenLabs?
-Christian Bech Henriksen https://destinationaarhus.com/event/current-threats-and-trends-in-cyber-security-morning-meetup-?vgo_ee=xQTCHZeR%2FtzkfDRJiOckyRlfcWjbW5Cg2RXaStcqFr1Kcfcw%3AKnvJXYfWb9IsfB3%2BUf74ThfIPgqfYgGY
-
+Trifork - Christian Bech Henriksen https://destinationaarhus.com/event/current-threats-and-trends-in-cyber-security-morning-meetup-?vgo_ee=xQTCHZeR%2FtzkfDRJiOckyRlfcWjbW5Cg2RXaStcqFr1Kcfcw%3AKnvJXYfWb9IsfB3%2BUf74ThfIPgqfYgGY
+Spil arrangement (evt. med CitySec) 
 POTENTIALS HOSTS
 -------------------
 ImproSec
@@ -54,5 +51,9 @@ Lego
 EAAA
 KMD? (Andrew)
 Vestas
+Mjølner
+AU
+Silkeborg eller Aarhus Politi
+Lunar
 
 
