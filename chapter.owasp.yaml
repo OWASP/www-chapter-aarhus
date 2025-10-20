@@ -1,0 +1,27 @@
+leaders:
+  - name: Dennis Perto
+    email: dennis.perto@owasp.org
+    github: LaZyDK
+  - name: Thomas Ljungberg Kristensen
+    email: thomas.kristensen@owasp.org
+    github: tlkristensen
+  - name: Bjarke Petersen
+    email: bjarke.petersen@owasp.org
+location:
+  country: Denmark
+  country_code: DK
+  region: Midtjylland
+  city: Aarhus
+  latitude: 56.1496278
+  longitude: 10.2134046
+meetup_group: OWASP-Aarhus-Chapter
+name: OWASP Aarhus
+repositories:
+  - name: www-chapter-aarhus
+    url: https://github.com/OWASP/www-chapter-aarhus
+    description: OWASP Foundation Web Repository
+tags:
+  - Aarhus
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-aarhus
