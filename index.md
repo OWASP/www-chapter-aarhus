@@ -20,7 +20,7 @@ OWASP Aarhus continues as usual - we just use a new registration system.
 
 ### How to stay updated
 
-**[→ Join OWASP Aarhus Chapter](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-join-chapter-become-a-member/)** - Sign up to receive notifications about upcoming events.
+**[→ Join OWASP Aarhus Chapter](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-bliv-medlem-join-chapter/)** - Sign up to receive notifications about upcoming events.
 
 **[→ TechHub Aarhus Events Calendar](https://www.techhubaarhus.com/events)** - See all events in one place.
 
@@ -38,7 +38,7 @@ OWASP Aarhus continues as usual - we just use a new registration system.
 
 Kevin shares his expertise on hacking Large Language Models, including a hands-on CTF challenge. Bring your laptop!
 
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-hacking-llms-kevin-joensen/)**
+**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-january/)**
 
 ---
 
@@ -49,7 +49,7 @@ Kevin shares his expertise on hacking Large Language Models, including a hands-o
 
 Celebrate OWASP's 25th anniversary! Watch the virtual conference together with local security professionals.
 
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/e/watch-party-owasp-25th-anniversary-virtual-conference/)**
+**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/watch-party-owasp-25th-anniversary-virtual-conference/)**
 
 ---
 
@@ -59,7 +59,7 @@ Celebrate OWASP's 25th anniversary! Watch the virtual conference together with l
 **Time:** 19:00-21:00
 ⚠️ **Registration closes: March 19 at 18:00**
 
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-march/)**
+**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-march/)**
 
 ---
 
@@ -68,7 +68,7 @@ Celebrate OWASP's 25th anniversary! Watch the virtual conference together with l
 **Time:** 19:00-21:30
 ⚠️ **Registration closes: May 26 at 18:00**
 
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-june/)**
+**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-june/)**
 
 ---
 
@@ -77,7 +77,7 @@ Celebrate OWASP's 25th anniversary! Watch the virtual conference together with l
 **Time:** 19:00-21:30
 ⚠️ **Registration closes: August 10 at 18:00**
 
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-august/)**
+**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-august/)**
 
 ---
 
@@ -86,7 +86,7 @@ Celebrate OWASP's 25th anniversary! Watch the virtual conference together with l
 **Time:** 19:00-21:30
 ⚠️ **Registration closes: October 12 at 18:00**
 
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-october/)**
+**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-october/)**
 
 ---
 

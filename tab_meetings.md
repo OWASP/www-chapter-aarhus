@@ -12,7 +12,7 @@ tags: Aarhus
 
 **We've moved from Meetup!** OWASP Global retired Meetup on January 31, 2026.
 
-**[→ Join OWASP Aarhus Chapter](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-join-chapter-become-a-member/)** to stay updated on events.
+**[→ Join OWASP Aarhus Chapter](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-bliv-medlem-join-chapter/)** to stay updated on events.
 
 **[→ TechHub Aarhus Calendar](https://www.techhubaarhus.com/events)** for event overview.
 
@@ -43,7 +43,7 @@ tags: Aarhus
 
 **Note:** Bring your laptop for hands-on participation!
 
-**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-hacking-llms-kevin-joensen/)**
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-january/)**
 
 ---
 
@@ -57,7 +57,7 @@ Watch the OWASP 25th Anniversary Virtual Conference together with local security
 
 ⚠️ **Registration closes: February 16 at 23:59**
 
-**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/watch-party-owasp-25th-anniversary-virtual-conference/)**
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/en/e/watch-party-owasp-25th-anniversary-virtual-conference/)**
 
 ---
 
@@ -67,7 +67,7 @@ Speaker and venue TBA.
 
 ⚠️ **Registration closes: March 19 at 18:00**
 
-**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-march/)**
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-march/)**
 
 ---
 
@@ -79,7 +79,7 @@ Speaker and venue TBA.
 
 ⚠️ **Registration closes: May 26 at 18:00**
 
-**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-june/)**
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-june/)**
 
 ---
 
@@ -91,7 +91,7 @@ Speaker and venue TBA.
 
 ⚠️ **Registration closes: August 10 at 18:00**
 
-**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-august/)**
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-august/)**
 
 ---
 
@@ -103,7 +103,7 @@ Speaker and venue TBA.
 
 ⚠️ **Registration closes: October 12 at 18:00**
 
-**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-october/)**
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-october/)**
 
 ---
 
