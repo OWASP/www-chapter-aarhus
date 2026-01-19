@@ -8,11 +8,21 @@ tags: Aarhus
 
 ---
 
+## How to Register
+
+**We've moved from Meetup!** OWASP Global retired Meetup on January 31, 2026.
+
+**[→ Join OWASP Aarhus Chapter](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-join-chapter-become-a-member/)** to stay updated on events.
+
+**[→ TechHub Aarhus Calendar](https://www.techhubaarhus.com/events)** for event overview.
+
+*Thanks to [TechHub Aarhus](https://www.techhubaarhus.com) for hosting our registration!*
+
+---
+
 ## Upcoming meetings
 
 **Everyone is welcome to join us at our chapter meetings.**
-
-Register at [owaspaarhuschapter.ticketbutler.io](https://owaspaarhuschapter.ticketbutler.io)
 
 ---
 
@@ -22,7 +32,7 @@ Register at [owaspaarhuschapter.ticketbutler.io](https://owaspaarhuschapter.tick
 
 **Where:** PwC, Nobelparken, Jens Chr. Skous Vej 1, 8000 Aarhus C
 
-[Google Maps](https://maps.google.com/?q=PwC+Nobelparken+Aarhus)
+⚠️ **Registration closes: January 13 at 18:00**
 
 **Program:**
 - 19:00 - Welcome from OWASP Aarhus and PwC
@@ -32,6 +42,8 @@ Register at [owaspaarhuschapter.ticketbutler.io](https://owaspaarhuschapter.tick
 - 21:30 - End
 
 **Note:** Bring your laptop for hands-on participation!
+
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-hacking-llms-kevin-joensen/)**
 
 ---
 
@@ -43,11 +55,19 @@ Watch the OWASP 25th Anniversary Virtual Conference together with local security
 
 **Where:** TBA
 
+⚠️ **Registration closes: February 16 at 23:59**
+
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/watch-party-owasp-25th-anniversary-virtual-conference/)**
+
 ---
 
 ### March 19, 2026 - Chapter Meeting
 
 Speaker and venue TBA.
+
+⚠️ **Registration closes: March 19 at 18:00**
+
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-march/)**
 
 ---
 
@@ -57,6 +77,10 @@ Speaker and venue TBA.
 
 **Where:** Finlandsgade 10, 8200 Aarhus N
 
+⚠️ **Registration closes: May 26 at 18:00**
+
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-june/)**
+
 ---
 
 ### August 18, 2026 - Chapter Meeting
@@ -65,6 +89,10 @@ Speaker and venue TBA.
 
 **Where:** Sankt Knuds Torv, 8000 Aarhus C
 
+⚠️ **Registration closes: August 10 at 18:00**
+
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-august/)**
+
 ---
 
 ### October 22, 2026 - Chapter Meeting
@@ -72,6 +100,10 @@ Speaker and venue TBA.
 **Host:** Campfire Security
 
 **Where:** INCUBA, Åbogade 15, 8200 Aarhus N
+
+⚠️ **Registration closes: October 12 at 18:00**
+
+**[→ Register](https://owaspaarhuschapter.ticketbutler.io/e/owasp-aarhus-chapter-meeting-october/)**
 
 ---
 
