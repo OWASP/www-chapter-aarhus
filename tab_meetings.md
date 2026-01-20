@@ -12,11 +12,13 @@ tags: Aarhus
 
 **We've moved from Meetup!** OWASP Global retired Meetup on January 31, 2026.
 
+We're using a **temporary registration system** while we await a new global platform from OWASP.
+
 **[→ Join OWASP Aarhus Chapter](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-bliv-medlem-join-chapter/)** to stay updated on events.
 
 **[→ TechHub Aarhus Calendar](https://www.techhubaarhus.com/events)** for event overview.
 
-*Thanks to [TechHub Aarhus](https://www.techhubaarhus.com) for hosting our registration!*
+*Thanks to [TechHub Aarhus](https://www.techhubaarhus.com) for hosting our registration during this transition!*
 
 ---
 

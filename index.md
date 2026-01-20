@@ -16,7 +16,7 @@ The Aarhus local chapter organises bi-monthly events to promote OWASP and inform
 
 **OWASP Global is retiring Meetup as of January 31, 2026** due to significant price increases. [Read the announcement](https://owasp.org/blog/2026/01/13/retiring-meetup.html).
 
-OWASP Aarhus continues as usual - we just use a new registration system.
+OWASP Aarhus continues as usual - we're using a **temporary registration system** while we await a new global platform from OWASP.
 
 ### How to stay updated
 
@@ -24,7 +24,7 @@ OWASP Aarhus continues as usual - we just use a new registration system.
 
 **[→ TechHub Aarhus Events Calendar](https://www.techhubaarhus.com/events)** - See all events in one place.
 
-*A big thank you to [TechHub Aarhus](https://www.techhubaarhus.com) for hosting our event registration during this transition!*
+*A big thank you to [TechHub Aarhus](https://www.techhubaarhus.com) for generously hosting our event registration during this transition!*
 
 ---
 
