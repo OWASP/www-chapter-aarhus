@@ -30,34 +30,13 @@ OWASP Aarhus continues as usual - we're using a **temporary registration system*
 
 ## Upcoming Events
 
-### January 20, 2026 - Hacking LLMs
-**Speaker:** Kevin Joensen (Baldur Security)
-**Host:** PwC, Nobelparken, Aarhus C
-**Time:** 19:00-21:30
-⚠️ **Registration closes: January 13 at 18:00**
-
-Kevin shares his expertise on hacking Large Language Models, including a hands-on CTF challenge. Bring your laptop!
-
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-january/)**
-
----
-
-### February 24, 2026 - OWASP 25th Anniversary Watch Party
-**Host:** TBA
-**Time:** 09:00-17:00
-⚠️ **Registration closes: February 16 at 23:59**
-
-Celebrate OWASP's 25th anniversary! Watch the virtual conference together with local security professionals.
-
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/watch-party-owasp-25th-anniversary-virtual-conference/)**
-
----
-
-### March 19, 2026 - Chapter Meeting
-**Speaker:** TBA
-**Host:** TBA
+### March 19, 2026 - Virtual Chapter Meeting
+**Speakers:** Sami Laiho + Tanya Janca (SheHacksPurple)
+**Format:** Online (link sent to registered attendees)
 **Time:** 19:00-21:00
 ⚠️ **Registration closes: March 19 at 18:00**
+
+Two international security experts in one virtual evening. Sami Laiho demonstrates 11 real-world ways to hack Windows 11 – with practical defenses for each. Tanya Janca explores the psychology behind insecure code and how to make secure behavior the default in your team.
 
 **[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-march/)**
 
