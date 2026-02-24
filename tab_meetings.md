@@ -28,46 +28,22 @@ We're using a **temporary registration system** while we await a new global plat
 
 ---
 
-### January 20, 2026 - Hacking LLMs
+### March 19, 2026 - Virtual Chapter Meeting
 
-**Speaker:** Kevin Joensen, Baldur Security
+**Speakers:** Sami Laiho + Tanya Janca (SheHacksPurple)
 
-**Where:** PwC, Nobelparken, Jens Chr. Skous Vej 1, 8000 Aarhus C
+**Format:** Online (link sent to all registered attendees before the event)
 
-⚠️ **Registration closes: January 13 at 18:00**
-
-**Program:**
-- 19:00 - Welcome from OWASP Aarhus and PwC
-- 19:15 - Hacking LLMs (Kevin Joensen)
-- 20:00 - Networking break with food & drinks
-- 20:30 - LLM Capture-the-Flag competition
-- 21:30 - End
-
-**Note:** Bring your laptop for hands-on participation!
-
-**[→ Register](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-january/)**
-
----
-
-### February 24, 2026 - OWASP 25th Anniversary Watch Party
-
-Watch the OWASP 25th Anniversary Virtual Conference together with local security professionals.
-
-**Time:** 09:00 - 17:00
-
-**Where:** TBA
-
-⚠️ **Registration closes: February 16 at 23:59**
-
-**[→ Register](https://owaspaarhuschapter.ticketbutler.io/en/e/watch-party-owasp-25th-anniversary-virtual-conference/)**
-
----
-
-### March 19, 2026 - Chapter Meeting
-
-Speaker and venue TBA.
+**Time:** 19:00-21:00
 
 ⚠️ **Registration closes: March 19 at 18:00**
+
+**Program:**
+- 19:00 - Welcome from OWASP Aarhus
+- 19:15 - Sami Laiho: *"11 Ways to Hack Windows 11"*
+- 20:00 - Short break
+- 20:15 - Tanya Janca: *"Threat Modeling Developer Behaviour: The Psychology of Bad Code"*
+- 21:00 - End
 
 **[→ Register](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-march/)**
 
@@ -110,5 +86,7 @@ Speaker and venue TBA.
 ---
 
 ## Past Events
+
+- January 20, 2026 – *Hacking LLMs* with Kevin Joensen (Baldur Security) @ PwC, Aarhus
 
 See our [presentation archive](/www-chapter-aarhus/presentations/) for slides from previous meetups.
