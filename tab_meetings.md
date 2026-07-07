@@ -63,9 +63,13 @@ We're using a **temporary registration system** while we await a new global plat
 
 ### August 18, 2026 - Chapter Meeting
 
+**Speakers:** Ebbe Skak Larsen and Casper Lund Thomsen (Danske Bank) — topics to be announced
+
 **Host:** Trifork
 
 **Where:** Sankt Knuds Torv, 8000 Aarhus C
+
+**Time:** 17:00-19:30 *(note the earlier start)*
 
 ⚠️ **Registration closes: August 10 at 18:00**
 
