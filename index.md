@@ -52,8 +52,9 @@ Two international security experts in one virtual evening. Sami Laiho demonstrat
 ---
 
 ### August 18, 2026 - Chapter Meeting
+**Speakers:** Ebbe Skak Larsen and Casper Lund Thomsen (Danske Bank) — topics to be announced
 **Host:** Trifork, Aarhus C
-**Time:** 19:00-21:30
+**Time:** 17:00-19:30 (note the earlier start)
 ⚠️ **Registration closes: August 10 at 18:00**
 
 **[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-august/)**
@@ -76,8 +77,6 @@ Call For Speakers is open - if you would like to present a talk at future OWASP 
 `dennis.perto (at) owasp.org`
 
 `thomas.kristensen (at) owasp.org`
-
-`bjarke.pedersen (at) owasp.org`
 
 ## Supporters
 
