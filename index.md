@@ -30,27 +30,6 @@ OWASP Aarhus continues as usual - we're using a **temporary registration system*
 
 ## Upcoming Events
 
-### March 19, 2026 - Virtual Chapter Meeting
-**Speakers:** Sami Laiho + Tanya Janca (SheHacksPurple)
-**Format:** Online (link sent to registered attendees)
-**Time:** 19:00-21:00
-⚠️ **Registration closes: March 19 at 18:00**
-
-Two international security experts in one virtual evening. Sami Laiho demonstrates 11 real-world ways to hack Windows 11 – with practical defenses for each. Tanya Janca explores the psychology behind insecure code and how to make secure behavior the default in your team.
-
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-march/)**
-
----
-
-### June 2, 2026 - Chapter Meeting
-**Host:** Mjølner Informatics, Aarhus N
-**Time:** 19:00-21:30
-⚠️ **Registration closes: May 26 at 18:00**
-
-**[→ Register here](https://owaspaarhuschapter.ticketbutler.io/en/e/owasp-aarhus-chapter-meeting-june/)**
-
----
-
 ### August 18, 2026 - Chapter Meeting
 **Speakers:** Ebbe Skak Larsen and Casper Lund Thomsen (Danske Bank) — topics to be announced
 **Host:** Trifork, Aarhus C
